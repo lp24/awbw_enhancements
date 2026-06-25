@@ -2,6 +2,8 @@
 
 > **Note:** This is a fork of the original [AWBW Enhancements](https://github.com/kbuzsaki/awbw_enhancements) by [kbuzsaki](https://github.com/kbuzsaki). All credit for the original extension goes to the original author.
 
+Forked again :D 1st fork by carsonhu, credit goes to the original authors. Code open-source, no profit is being made. 
+
 "AWBW Enhancements" is a browser extension that adds extra functionality to [Advance Wars By Web](https://awbw.amarriner.com).
 
 ## Installation
@@ -125,6 +127,12 @@ The original extension includes:
     4. The visual bug where capture icons are displayed for infantry that have already finished capturing.
     5. The visual bug where black boat sprites break when a savestate is uploaded.
 
+----
+My fixes:
+Unit value showing up on player panel
+Keeping track of power meter on setting units hp/removing units.
+[Needs testing]
+
 ## Screenshots
 
 Here's an example of what the moveplanner looks like with AWBW Enhancements enabled:
@@ -134,5 +142,6 @@ Here's an example of what the moveplanner looks like with AWBW Enhancements enab
 
 - **Original Author:** [kbuzsaki](https://github.com/kbuzsaki) (saltor on AWBW Discord)
 - **Fork Author:** [carsonhu](https://github.com/carsonhu) (darthnoob on AWBW Discord)
+- **New Fork Author:** [lp24](https://github.com/lp24) (nightfury42 on AWBW Discord)
 
 Please feel free to report bugs or request new features via a GitHub issue.
